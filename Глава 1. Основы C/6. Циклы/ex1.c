@@ -1,3 +1,4 @@
+/*апишите программу, которая c помощью циклов for и while выводит на консоль пять раз строку "Hello Work".*/
 #include <stdio.h>
   
 int main(void)
